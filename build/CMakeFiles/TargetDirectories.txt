@@ -1,0 +1,4 @@
+/home/zius/Projects/KineticFPS/build/CMakeFiles/kinetic_fps.dir
+/home/zius/Projects/KineticFPS/build/CMakeFiles/inspect_models.dir
+/home/zius/Projects/KineticFPS/build/CMakeFiles/edit_cache.dir
+/home/zius/Projects/KineticFPS/build/CMakeFiles/rebuild_cache.dir
